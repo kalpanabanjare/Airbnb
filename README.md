@@ -7,10 +7,10 @@ The different leaders at Airbnb want to understand some important insights based
 
 1. Which type of hosts to acquire more and where?
 2. The categorisation of customers based on their preferences.
-    What are the neighbourhoods they need to target?
-    What is the pricing ranges preferred by customers?
-    The various kinds of properties that exist w.r.t. customer preferences.
-    Adjustments in the existing properties to make it more customer-oriented.
+	-What are the neighbourhoods they need to target?
+    -What is the pricing ranges preferred by customers?
+    -The various kinds of properties that exist w.r.t. customer preferences.
+    -Adjustments in the existing properties to make it more customer-oriented.
 3. What are the most popular localities and properties in New York currently?
 4. How to get unpopular properties more traction? and so on...
 
